@@ -3,9 +3,7 @@
 I enjoy learning how new technologies work and figuring out how they can be applied to solve real problems. I like working with others to build meaningful systems—especially when the goal is to improve how people interact with information or tools.
 </div>
 
----
-
-### 🛠️ Tools & Technologies I Work With
+### Toolset
 
 <div align="center">
   <!-- Core AI/ML -->
@@ -31,18 +29,11 @@ I enjoy learning how new technologies work and figuring out how they can be appl
   <a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/></a>
 </div>
 
----
-
 ### 📫 Let’s Connect
 
 - 💼 [Email](shwatgal@gmail.com)
 - ✉️ Drop a message to collaborate or exchange ideas around AI systems
 
----
-
-<div align="center">
-  <sub>Minimalist. Curious. Always building the next iteration.</sub>
-</div>
 <!--
 **shtgl/shtgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
