@@ -20,12 +20,14 @@
   <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
   <a href="https://www.cursor.so/"><img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/></a>
   <a href="https://microsoft.github.io/autogen/"><img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
-
+</div><br>
+<div align="center">
   <!-- UI/Interaction -->
   <a href="https://adaptivecards.io/"><img src="https://img.shields.io/badge/AdaptiveCards-0088CC?style=for-the-badge&logo=microsoftteams&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
-
+</div><br>
+<div align="center">
   <!-- Web / Markup / Data -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
