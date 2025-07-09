@@ -4,7 +4,6 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 </div>
 
 ### Toolset
-
 <div align="center">
   <!-- Core AI/ML -->
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -30,7 +29,6 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 </div>
 
 ### 📫 Let’s Connect
-
 - 💼 [Email](shwatgal@gmail.com)
 - ✉️ Drop a message to collaborate or exchange ideas around AI systems
 
