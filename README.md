@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <h1>Hi, I'm Shash</h1>
+  <h1><i>Shashwat here</i></h1>
   <p>
     I enjoy learning how new technologies work and figuring out how they can be applied to solve real problems.<br/>
     I like working with others to build meaningful systems—especially when the goal is to improve how people interact with information or tools.
