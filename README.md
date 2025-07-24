@@ -7,24 +7,18 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 
 <div align="center">
 
-| [![Python](1.png)](https://www.python.org/) | [![TF](2.png)](https://www.tensorflow.org/) | [![HF](3.png)](https://huggingface.co/) | [![OpenAI](4.png)](https://openai.com/) |
-|------------------------|------------------------|------------------------|------------------------|
+| [![Python](1.png)](https://www.python.org/) | [![TF](2.png)](https://www.tensorflow.org/) | [![HF](3.png)](https://huggingface.co/) | [![OpenAI](4.png)](https://openai.com/) | [![Gemini](5.png)](https://gemini.google.com/app) |
+|------------------------|------------------------|------------------------|------------------------|------------------------|
 </div>
 <br> 
 
 <div align="center">
 
-|[![Gemini](5.png)](https://gemini.google.com/app) | [![Cursor](6.png)](https://cursor.com/) | [![Cursor](7.png)](https://microsoft.github.io/autogen/stable/)
-|------------------------|------------------------|------------------------|
+| [![Cursor](6.png)](https://cursor.com/) | [![Cursor](7.png)](https://microsoft.github.io/autogen/stable/) | [![AdaptiveCards](8.png)](https://adaptivecards.microsoft.com/) | [![VSCode](9.png)](https://code.visualstudio.com/docs) | [![Jupyter](10.png)](https://docs.jupyter.org/en/latest/) |
+|------------------------|------------------------|------------------------|------------------------|------------------------|
 </div>
 <br> 
 
-<div align="center">
-
-| [![AdaptiveCards](8.png)](https://adaptivecards.microsoft.com/) | [![VSCode](9.png)](https://code.visualstudio.com/docs) | [![Jupyter](10.png)](https://docs.jupyter.org/en/latest/)
-|------------------------|------------------------|------------------------|
-</div>
-<br>
 
 <div align="center">
 
