@@ -20,6 +20,8 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 <a href="https://adaptivecards.microsoft.com/" target="_blank"><img src="8.png" alt="Adaptive Cards"></a>
 <a href="https://code.visualstudio.com/docs" target="_blank"><img src="9.png" alt="VSCode"></a>
 <a href="https://docs.jupyter.org/en/latest/" target="_blank"><img src="10.png" alt="Jupyter"></a>
+  | ![Image 1](11.png) | ![Image 2](12.png) | ![Image 3](13.png) |
+|------------------------|------------------------|------------------------|
 </div>
 <br> 
 
