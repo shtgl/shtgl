@@ -14,7 +14,7 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 
 <div align="center">
 
-| [![Cursor](6.png)](https://cursor.com/) | [![Cursor](7.png)](https://microsoft.github.io/autogen/stable/) | [![AdaptiveCards](8.png)](https://adaptivecards.microsoft.com/) | [![VSCode](9.png)](https://code.visualstudio.com/docs) | [![Jupyter](10.png)](https://docs.jupyter.org/en/latest/) |
+| [![Cursor](6.png)](https://cursor.com/) | [![Cursor](7.png)](https://microsoft.github.io/autogen/stable/) | [![AdaptiveCards](8.png)](https://adaptivecards.microsoft.com/) | [![VSCode](9.png)](https://code.visualstudio.com/docs) | [![Ollama](15.png)](https://ollama.com/) |
 |------------------------|------------------------|------------------------|------------------------|------------------------|
 </div>
 <br> 
@@ -22,8 +22,8 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 
 <div align="center">
 
-| [![JS](11.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![HTML](12.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](13.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JSON](14.png)](https://www.json.org/json-en.html)
-|------------------------|------------------------|------------------------|------------------------|
+| [![Jupyter](10.png)](https://docs.jupyter.org/en/latest/) | [![JS](11.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![HTML](12.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](13.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JSON](14.png)](https://www.json.org/json-en.html)
+|------------------------|------------------------|------------------------|------------------------|------------------------|
 </div>
 
 ## 📫 Let’s Connect
