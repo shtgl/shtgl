@@ -4,6 +4,24 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 </div>
 
 ## Toolset
+<style>
+ img {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px;
+ }
+</style>
+
+<div align="center"> 
+<a href="https://www.python.org/" target="_blank"><img src="1.png" alt="Python"></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="2.png" alt="TF"></a>
+<a href="https://huggingface.co/" target="_blank"><img src="3.png" alt="HF"></a>
+<a href="https://openai.com/" target="_blank"><img src="4.png" alt="OpenAI"></a>
+<a href="https://gemini.google.com/app" target="_blank"><img src="5.png" alt="Gemini"></a>
+<a href="https://cursor.com/" target="_blank"><img src="6.png" alt="Cursor AI"></a>
+</div>
+<br> 
+
 <div align="center">
   <!-- Core AI/ML -->
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
