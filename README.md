@@ -1,10 +1,3 @@
-## Hi there 👋 Welcome to my workspace
-<div align="justify">
-I enjoy learning how new technologies work and figuring out how they can be applied to solve real problems. I like working with others to build systems—especially when the goal is to improve how people interact with information or tools.
-</div>
-
-## Toolset
-
 <style>
  img {
   border-radius: 10px;
@@ -12,6 +5,15 @@ I enjoy learning how new technologies work and figuring out how they can be appl
   margin: 10px;
  }
 </style>
+
+## Hi there 👋 Welcome to my workspace
+<div align="justify">
+I enjoy learning how new technologies work and figuring out how they can be applied to solve real problems. I like working with others to build systems—especially when the goal is to improve how people interact with information or tools.
+</div>
+
+## Toolset
+
+
 
 <div align="center"> 
 <a href="https://www.python.org/" target="_blank"><img src="1.png" alt="Python"></a>
