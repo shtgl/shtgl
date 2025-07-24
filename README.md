@@ -7,24 +7,31 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 
 <div align="center">
 
-| [![Python](1.png)](https://www.python.org/) | [![TF](2.png)](https://www.tensorflow.org/) | [![HF](3.png)](https://huggingface.co/) | [![OpenAI](4.png)](https://openai.com/) | [![Gemini](5.png)](https://gemini.google.com/app) |
-|------------------------|------------------------|------------------------|------------------------|------------------------|
+| [![Python](1.png)](https://www.python.org/) | [![TF](2.png)](https://www.tensorflow.org/) | [![Autogen](7.png)](https://microsoft.github.io/autogen/stable/) | [![AdaptiveCards](8.png)](https://adaptivecards.microsoft.com/) |
+|------------------------|------------------------|------------------------|------------------------|
 </div>
 <br> 
 
 <div align="center">
 
-| [![Cursor](6.png)](https://cursor.com/) | [![Cursor](7.png)](https://microsoft.github.io/autogen/stable/) | [![AdaptiveCards](8.png)](https://adaptivecards.microsoft.com/) | [![VSCode](9.png)](https://code.visualstudio.com/docs) | [![Ollama](15.png)](https://ollama.com/) |
-|------------------------|------------------------|------------------------|------------------------|------------------------|
+|[![OpenAI](4.png)](https://openai.com/) | [![Gemini](5.png)](https://gemini.google.com/app) | [![HF](3.png)](https://huggingface.co/) | [![Ollama](15.png)](https://ollama.com/) | 
+|------------------------|------------------------|------------------------|------------------------|
 </div>
 <br> 
 
+<div align="center">
+
+| [![MCP](16.png)](https://modelcontextprotocol.io/introduction) | [![Cursor](6.png)](https://cursor.com/)  | [![VSCode](9.png)](https://code.visualstudio.com/docs) | [![Jupyter](10.png)](https://docs.jupyter.org/en/latest/)|
+|------------------------|------------------------|------------------------|------------------------|
+</div>
+<br>
 
 <div align="center">
 
-| [![Jupyter](10.png)](https://docs.jupyter.org/en/latest/) | [![JS](11.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![HTML](12.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](13.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JSON](14.png)](https://www.json.org/json-en.html)
-|------------------------|------------------------|------------------------|------------------------|------------------------|
+| [![JSON](14.png)](https://www.json.org/json-en.html) | [![JS](11.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![HTML](12.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](13.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+|------------------------|------------------------|------------------------|------------------------|
 </div>
+
 
 ## 📫 Let’s Connect
 - 💼 [Email](shwatgal@gmail.com)
