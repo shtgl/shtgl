@@ -16,29 +16,21 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 </div>
 <br> 
 
-<div align="center">
-  <!-- Core AI/ML -->
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="https://platform.openai.com/"><img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
-  <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-  <a href="https://www.cursor.so/"><img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/></a>
-  <a href="https://microsoft.github.io/autogen/"><img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
-</div><br>
-<div align="center">
-  <!-- UI/Interaction -->
-  <a href="https://adaptivecards.io/"><img src="https://img.shields.io/badge/AdaptiveCards-0088CC?style=for-the-badge&logo=microsoftteams&logoColor=white"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
-</div><br>
-<div align="center">
-  <!-- Web / Markup / Data -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/></a>
+<div align="center"> 
+<a href="https://adaptivecards.microsoft.com/" target="_blank"><img src="8.png" alt="Adaptive Cards"></a>
+<a href="https://code.visualstudio.com/docs" target="_blank"><img src="9.png" alt="VSCode"></a>
+<a href="https://docs.jupyter.org/en/latest/" target="_blank"><img src="10.png" alt="Jupyter"></a>
 </div>
+<br> 
+
+<div align="center"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="11.png" alt="JS"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="12.png" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="13.png" alt="CSS"></a>
+<a href="https://www.json.org/json-en.html" target="_blank"><img src="14.png" alt="JSON"></a>
+</div>
+<br> 
+  
 
 ## 📫 Let’s Connect
 - 💼 [Email](shwatgal@gmail.com)
