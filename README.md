@@ -12,6 +12,7 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 <a href="https://openai.com/" target="_blank"><img src="4.png" alt="OpenAI"></a>
 <a href="https://gemini.google.com/app" target="_blank"><img src="5.png" alt="Gemini"></a>
 <a href="https://cursor.com/" target="_blank"><img src="6.png" alt="Cursor AI"></a>
+<a href="[https://cursor.com/](https://microsoft.github.io/autogen/stable/)" target="_blank">img src="7.png" alt="AutoGen"></a>
 </div>
 <br> 
 
