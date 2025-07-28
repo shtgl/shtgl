@@ -34,7 +34,7 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 
 
 ## 📫 Let’s Connect
-- 💼 [Email](shwatgal@gmail.com)
+- 💼 [Email](mailto:shwatgal@gmail.com)
 - ✉️ Drop a message to collaborate or exchange ideas around AI systems
 
 <!--
