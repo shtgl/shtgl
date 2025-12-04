@@ -5,13 +5,6 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 
 ## Toolset
 
-# 📊 Combined Language & Tool Usage Across Repositories
-
-**Total repositories scanned:** 16
-
----
-
-### Overall Tool & Language Usage
 
 ![Tool Usage](bar.png)
 
