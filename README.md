@@ -5,32 +5,18 @@ I enjoy learning how new technologies work and figuring out how they can be appl
 
 ## Toolset
 
-<div align="center">
+# 📊 Combined Language & Tool Usage Across Repositories
 
-| [![Python](1.png)](https://www.python.org/) | [![TF](2.png)](https://www.tensorflow.org/) | [![Autogen](7.png)](https://microsoft.github.io/autogen/stable/) | [![AdaptiveCards](8.png)](https://adaptivecards.microsoft.com/) |
-|------------------------|------------------------|------------------------|------------------------|
-</div>
-<br> 
+**Total repositories scanned:** 16
 
-<div align="center">
+---
 
-|[![OpenAI](4.png)](https://openai.com/) | [![Gemini](5.png)](https://gemini.google.com/app) | [![HF](3.png)](https://huggingface.co/) | [![Ollama](15.png)](https://ollama.com/) | 
-|------------------------|------------------------|------------------------|------------------------|
-</div>
-<br> 
+### Overall Tool & Language Usage
 
-<div align="center">
+![Tool Usage](bar.png)
 
-| [![MCP](16.png)](https://modelcontextprotocol.io/introduction) | [![Cursor](6.png)](https://cursor.com/)  | [![VSCode](9.png)](https://code.visualstudio.com/docs) | [![Jupyter](10.png)](https://docs.jupyter.org/en/latest/)|
-|------------------------|------------------------|------------------------|------------------------|
-</div>
-<br>
+![Legend](legend.png)
 
-<div align="center">
-
-| [![JSON](14.png)](https://www.json.org/json-en.html) | [![JS](11.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![HTML](12.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](13.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-|------------------------|------------------------|------------------------|------------------------|
-</div>
 
 
 ## 📫 Let’s Connect
