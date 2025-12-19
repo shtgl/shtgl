@@ -1,32 +1,9 @@
-## Hi there 👋 Welcome to my workspace
+## Hi! Welcome to open-source space
+
 <div align="justify">
-I enjoy learning how new technologies work and figuring out how they can be applied to solve real problems. I like working with others to build systems—especially when the goal is to improve how people interact with information or tools.
+I’ve open-sourced some of my projects and ideas on GitHub. It took time to figure many things out from scratch. I tried writing explanations that actually make sense. The goal is helping people find the right information. It’s also a place for clearer answers, without overcomplicating things.
 </div>
 
-## Toolset
-
-
-![Tool Usage](bar.png)
-
-![Legend](legend.png)
-
-
-
-## 📫 Let’s Connect
-- 💼 Email - shwatgal@gmail.com
-- ✉️ Drop a message to collaborate or exchange ideas around AI systems
-
-<!--
-**shtgl/shtgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me at
+- Please drop a mail to below, and feel free to share and exchange ideas 
+- sshashwatsin@gmail.com
